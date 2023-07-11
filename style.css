@@ -231,3 +231,16 @@ position: relative;
     color: #272727;
     text-decoration-line: underline;
 }
+.video{
+    padding-left: 180px;
+}
+.flow{
+    text-align: center;
+    font-size: 100px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-decoration-line: underline;
+}
+#red{
+    color: crimson;
+}
