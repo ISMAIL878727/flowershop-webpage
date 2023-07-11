@@ -43,6 +43,10 @@
     border-style: none;
     cursor: pointer;
 }
+.btn-primary:hover{
+    color: #272727;
+    font-size: smaller;
+}
 .off{
     color: #E55473;
 }
